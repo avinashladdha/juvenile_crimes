@@ -1,3 +1,8 @@
 numpy
 ipywidgets
 nbinteract
+geopandas
+matplotlib
+warnings
+descartes
+pandas
