@@ -6,4 +6,3 @@ descartes
 pandas
 folium
 matplotlib==3.0.3
-os
