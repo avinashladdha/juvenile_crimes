@@ -4,6 +4,5 @@ nbinteract
 geopandas
 descartes
 pandas
-json
 folium
 matplotlib==3.0.3
